@@ -6,7 +6,7 @@ Neste repositório estão os exercícios sobre saída de dados, estruturas seque
 
 #### 💻 Linguagens utilizadas: Java
 
-#### 📚 Atividades realizadas:
+#### 📚 Temas abordados:
 
 ✓ Saída de dados: Locale; Concatenação de vários elementos. </br>
 ✓ Estruturas Sequenciais: Entrada, processamentos e saída de dados; Funções Matemáticas; Casting de tipos primitivos. </br>
