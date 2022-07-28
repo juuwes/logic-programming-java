@@ -9,7 +9,8 @@ Neste repositório estão os exercícios sobre saída de dados, estruturas seque
 #### 📚 Temas abordados:
 
 ✓ Saída de dados: Locale; Concatenação de vários elementos. </br>
-✓ Estruturas Sequenciais: Entrada, processamentos e saída de dados; Funções Matemáticas; Casting de tipos primitivos. </br>
+✓ Estruturas Sequenciais: Entrada, processamentos e saída de dados. </br>
+✓ Funções Matemáticas e Casting de tipos primitivos. </br>
 ✓ Estruturas Condicionais: Encadeamento de estruturas condicionais. </br>
 ✓ Estruturas Repetitivas. </br>
 ✓ Vetores.
