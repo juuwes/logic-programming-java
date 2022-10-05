@@ -1,4 +1,5 @@
-### Exercícios Lógica de Programação e Algoritmos - Java <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<h2 align="center"> Exercícios Lógica de Programação e Algoritmos - Java <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> </h2>
+<div align="justify">
 
 ✔️ *Curso Finalizado*.
 
