@@ -3,9 +3,7 @@
 
 ✔️ *Curso Finalizado*.
 
-Neste repositório estão os exercícios sobre saída de dados, estruturas sequenciais, estruturas condicionais, estruturas repetitivas e vetores, realizados durante o curso - [Java primeiros passos: Lógica de Programação e Algoritmos (Professor Nelio Alves)](https://www.udemy.com/course/java-curso-logica-de-programacao/).
-
-(Exercises on data output, sequential structures, conditional structures, repetitive structures and vectors, performed during the course - Java first steps: Programming Logic and Algorithms (Professor Nelio Alves). 
+Neste repositório estão os exercícios sobre saída de dados, estruturas sequenciais, estruturas condicionais, estruturas repetitivas e vetores, realizados durante o curso - [Java primeiros passos: Lógica de Programação e Algoritmos (Professor Nelio Alves)](https://www.udemy.com/course/java-curso-logica-de-programacao/). (Exercises on data output, sequential structures, conditional structures, repetitive structures and vectors, performed during the course - Java first steps: Programming Logic and Algorithms (Professor Nelio Alves). 
 
 ### 💻 Linguagens utilizadas: Java
 
